@@ -6,11 +6,8 @@
 - 🎵 Amo música <br>
 - 🎸 Instrumentista <br>
 <br>
-<img width="62px" src="http://nicchon.com/images/favicon.png">
 
-<div style="display: inline_block"><br>
-  <div style="display: inline_block">
-    <br>
+<div>
     <img align="center" alt="Nick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Nick-JQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg">
     <img align="center" alt="Nick-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
@@ -18,7 +15,6 @@
     <img align="center" alt="Nick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg">
     <img align="center" alt="Nick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
     <br>
-    </div>
 </div>
 
   ##
