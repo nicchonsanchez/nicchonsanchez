@@ -1,4 +1,4 @@
-<h1 align = "center" vertical-align="middle"><img width="32px" src="http://nicchon.com/images/favicon.png"> Olá, sou o Nick!</h1>
+<h1 align = "center" style="transform: translateY(10px);"><img width="32px" src="http://nicchon.com/images/favicon.png"> Olá, sou o Nick!</h1>
   
 - 🖥️ Cursando Tecnólogo em Desenvolvimento Web, Anhanguera
 - 📚 Estudante da Danki Code
