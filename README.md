@@ -8,7 +8,7 @@
 - 🎸 Instrumentista <br>
 </div>
 
-<img width="62px" padding="5" src="http://nicchon.com/images/favicon.png">
+<img width="62px" style="padding: 5px;" src="http://nicchon.com/images/favicon.png">
 </div>
 
 <div style="display: inline_block"><br>
