@@ -1,6 +1,6 @@
 <h1 align = "center">👋Olá, sou o Nick!</h1>
-<div style="display: flex; align-itens: center; justify-content: space-around;">
-<div>
+<div style="flex-direction: row; align-itens: center; justify-content: space-around;">
+<div style="display: inline-block">
 - 🖥️ Cursando Tecnólogo em Desenvolvimento Web, Anhanguera <br>
 - 📚 Estudante da Danki Code <br>
 - 🌱 Aprendendo Javascript, JQuery, Python, PHP, HTML e CSS <br>
@@ -8,7 +8,7 @@
 - 🎸 Instrumentista <br>
 </div>
 
-<img width="62px" style="padding: 5px;" src="http://nicchon.com/images/favicon.png">
+<img width="62px" style="display: inline-block" style="padding: 5px;" src="http://nicchon.com/images/favicon.png">
 </div>
 
 <div style="display: inline_block"><br>
