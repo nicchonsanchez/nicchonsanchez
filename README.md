@@ -1,9 +1,10 @@
 <h1 align = "center">👋 Olá, sou o Nick!</h1>
   
-- 📚 Cursando Tecnólogo em Desenvolvimento Web, Anhanguera
+- 🖥️ Cursando Tecnólogo em Desenvolvimento Web, Anhanguera
 - 📚 Estudante da Danki Code
-- 🌱 Estudando Javascript, JQuery, Python e PHP
-- 💻 Amo programação e tecnologia!
+- 🌱 Aprendendo Javascript, JQuery, Python, PHP, HTML e CSS
+- 🎵 Amo música
+- 🎸 Instrumentista
 
 <div style="display: inline_block"><br>
   <div style="display: inline_block">
