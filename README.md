@@ -17,8 +17,10 @@
     <br>
 </div>
 
-  ##
- 
+##
+
+<img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=nicchonsanchez&show_icons=true&theme=midnight-purple" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicchonsanchez&layout=compact&theme=great-gatsby" />
 <div> 
     <a href="https://www.instagram.com/nicchon.sanchez/" target="_blank">
         <img src="https://img.shields.io/badge/-Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
@@ -27,9 +29,3 @@
         <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=Mail.Ru&logoColor=white" target="_blank">
     </a>
 </div>
-
-### 📊 GitHub estatísticas:
-<img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=nicchonsanchez&show_icons=true&theme=midnight-purple" />
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicchonsanchez&layout=compact&theme=great-gatsby" />
-<br><br>
