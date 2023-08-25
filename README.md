@@ -29,4 +29,4 @@
         <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=Mail.Ru&logoColor=white" target="_blank">
     </a>
 </div>
-<iframe src="https://giphy.com/embed/NHvv0Bo3oGq1eTBDd1" width="480" height="266" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/geekinc-helloworld-programmation-srhelloworld-NHvv0Bo3oGq1eTBDd1">via GIPHY</a></p>
+<img src="	https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjEx…9naWZfYnlfaWQmY3Q9Zw/NHvv0Bo3oGq1eTBDd1/giphy.gif">
