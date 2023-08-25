@@ -7,7 +7,9 @@
 - 🎵 Amo música <br>
 - 🎸 Instrumentista <br>
 </div>
-<br>
+
+<br><br>
+
 <img width="62px" src="http://nicchon.com/images/favicon.png">
 </div>
 
