@@ -1,5 +1,7 @@
 <h1 align = "center">👋Olá, sou o Nick!</h1>
-<img width="46px" margin="0 auto" align="center" src="http://nicchon.com/images/favicon.png">
+<div>
+    <img width="46px" src="http://nicchon.com/images/favicon.png">
+</div>
   
 - 🖥️ Cursando Tecnólogo em Desenvolvimento Web, Anhanguera
 - 📚 Estudante da Danki Code
