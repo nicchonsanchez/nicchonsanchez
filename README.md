@@ -29,7 +29,7 @@
 </div>
 
 ### 📊 GitHub estatísticas:
-<img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=nicchonsanchez&show_icons=true&theme=radical" />
+<img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=nicchonsanchez&show_icons=true&theme=midnight-purple" />
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicchonsanchez&layout=compact" />
 <br><br>
