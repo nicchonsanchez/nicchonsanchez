@@ -29,4 +29,4 @@
         <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=Mail.Ru&logoColor=white" target="_blank">
     </a>
 </div>
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjEx…9naWZfYnlfaWQmY3Q9Zw/NHvv0Bo3oGq1eTBDd1/giphy.gif">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjEx…9naWZfYnlfaWQmY3Q9Zw/NHvv0Bo3oGq1eTBDd1/giphy.gif" width="100">
