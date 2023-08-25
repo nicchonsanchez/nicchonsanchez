@@ -23,10 +23,10 @@
  
 <div> 
     <a href="https://www.instagram.com/nicchon.sanchez/" target="_blank">
-        <img src="https://img.shields.io/badge/-Instagram-%061e4ef0?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+        <img src="https://img.shields.io/badge/-Instagram-%061e4e?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
     </a>
     <a href="mailto:contato@nicchon.com" target="_blank">
-        <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=/e/&logoColor=white" target="_blank">
+        <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=Mail.Ru&logoColor=white" target="_blank">
     </a>
 </div>
 
