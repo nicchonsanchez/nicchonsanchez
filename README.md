@@ -26,10 +26,10 @@
         <img src="https://img.shields.io/badge/-Instagram-%061e4ef0?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
     </a>
     <a href="mailto:contato@nicchon.com" target="_blank">
-        <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+        <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=e-mail&logoColor=white" target="_blank">
     </a>
 </div>
 
 ### 📊 GitHub estatísticas:
-<p> <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=nicchonsanchez&show_icons=true&locale=en&layout=compact" alt = "Gabyperin" /> </p>
+<p> <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=nicchonsanchez&show_icons=true&locale=en&layout=compact" alt = "Nicchon Sanchez" /> </p>
 <br><br>
