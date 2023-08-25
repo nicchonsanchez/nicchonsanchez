@@ -5,7 +5,7 @@
 - 🌱 Aprendendo Javascript, JQuery, Python, PHP, HTML e CSS <br>
 - 🎵 Amo música <br>
 - 🎸 Instrumentista <br>
-<br><br>
+<br>
 <img width="62px" src="http://nicchon.com/images/favicon.png">
 
 <div style="display: inline_block"><br>
