@@ -1,4 +1,4 @@
-<h1 align = "center">👋Olá, sou o Nick!</h1>
+<h1 align = "center">👋Olá, sou o Nick!</h1>  <h1>Gaby é linda</h1>
 
 🖥️ Cursando Tecnólogo em Desenvolvimento Web, Anhanguera <br>
 📚 Estudante da Danki Code <br>
