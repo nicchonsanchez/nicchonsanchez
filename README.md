@@ -3,7 +3,7 @@
 
 🖥️ Cursando Tecnólogo em Desenvolvimento Web, Anhanguera <br>
 📚 Estudante da Danki Code <br>
-🌱 Aprendendo Javascript, JQuery, Python, PHP, HTML e CSS <br>
+🌱 Aprendendo Javascript, JQuery, React, Python, PHP, HTML e CSS <br>
 🎵 Amo música <br>
 🎸 Instrumentista <br>
 <br>
