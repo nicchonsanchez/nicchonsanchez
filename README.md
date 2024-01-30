@@ -6,7 +6,7 @@
 🌱 Aprendendo Javascript, JQuery, React, Python, PHP, HTML e CSS <br>
 🎵 Amo música <br>
 🎸 Instrumentista <br>
-Portfólio <a href="https:https://nicchon.com/">nicchon.com/</a>
+Portfólio <a href="[https:https://nicchon.com/](https://nicchon.com/)">nicchon.com/</a>
 <br>
 
 <div>
