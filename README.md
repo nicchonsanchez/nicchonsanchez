@@ -2,8 +2,8 @@
 <br>
 
 🖥️ Cursando Tecnólogo em Desenvolvimento Web, Anhanguera <br>
-📚 Estudante da Danki Code <br>
-🌱 Aprendendo Javascript, JQuery, React, Python, PHP, HTML e CSS <br>
+📚 Aluno da Danki Code <br>
+🌱 Desenvolvedor Fullstack: Javascript, JQuery, React, Python, PHP, HTML e CSS <br>
 🎵 Amo música <br>
 🎸 Instrumentista <br>
 Portfólio <a target="_blank" href="https://nicchon.com/">nicchon.com</a>
