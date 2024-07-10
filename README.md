@@ -6,7 +6,7 @@
 ⌨ HTML, CSS, Javascript, JQuery, PHP, React, Python<br>
 🗣 Inglês B1 (rumo ao B2) <br>
 🎵 Instrumentista, dançarino e lutador <br>
-Portfólio <a target="_blank" href="https://nicchon.com/">nicchon.com</a>
+🌐 Portfólio <a target="_blank" href="https://nicchon.com/">nicchon.com</a>
 <br>
 
 <div>
