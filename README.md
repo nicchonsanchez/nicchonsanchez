@@ -4,7 +4,7 @@
 🖥️ Cursando Tecnólogo em Desenvolvimento Web, Anhanguera <br>
 📚 Aluno da <a href="https://cursos.dankicode.com/" target="_blank">Danki Code</a> <br>
 ⌨ HTML, CSS, Javascript, JQuery, PHP, React, Python<br>
-🗣 Inglês B1 (rumo ao B2)
+🗣 Inglês B1 (rumo ao B2) <br>
 🎵 Instrumentista, dançarino e lutador <br>
 Portfólio <a target="_blank" href="https://nicchon.com/">nicchon.com</a>
 <br>
