@@ -1,11 +1,10 @@
-<h1 align = "center">👋Olá, sou o Nick!</h1>
+<h1 align = "center">👋Hey there! I'm Nick!</h1>
 <br>
 
 🖥️ Cursando Tecnólogo em Desenvolvimento Web, Anhanguera <br>
-📚 Aluno da Danki Code <br>
-🌱 Desenvolvedor Fullstack: Javascript, JQuery, React, Python, PHP, HTML e CSS <br>
-🎵 Amo música <br>
-🎸 Instrumentista <br>
+📚 Aluno da <a href="https://cursos.dankicode.com/" target="_blank">Danki Code</a> <br>
+🌱 HTML, CSS, Javascript, JQuery, PHP, React, Python<br>
+🎵 Instrumentista, dançarino e lutador <br>
 Portfólio <a target="_blank" href="https://nicchon.com/">nicchon.com</a>
 <br>
 
@@ -26,11 +25,11 @@ Portfólio <a target="_blank" href="https://nicchon.com/">nicchon.com</a>
 <img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=nicchonsanchez&show_icons=true&theme=midnight-purple" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicchonsanchez&layout=compact&theme=great-gatsby" />
 <div> 
+    <a href="https://wa.me/5531993767301/" target="_blank">
+        <img src="https://img.shields.io/badge/-Whatsapp-darkgreen?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
+    </a>
     <a href="https://www.instagram.com/nicchon.sanchez/" target="_blank">
         <img src="https://img.shields.io/badge/-Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-    </a>
-    <a href="https://wa.me/5531989116860/" target="_blank">
-        <img src="https://img.shields.io/badge/-Whatsapp-darkgreen?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
     </a>
     <a href="mailto:contato@nicchon.com" target="_blank">
         <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=Mail.Ru&logoColor=white" target="_blank">
