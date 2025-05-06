@@ -1,11 +1,13 @@
 <h1 align = "center">👋Hey there! I'm Nick!</h1>
 <br>
 
-🖥️ Cursando Tecnólogo em Desenvolvimento Web, Anhanguera <br>
+🖥️ CST em Desenvolvimento Web, Anhanguera <br>
+📚 Aluno da <a href="https://rocketseat.com.br/" target="_blank">Rocketseat</a> <br>
 📚 Aluno da <a href="https://cursos.dankicode.com/" target="_blank">Danki Code</a> <br>
-⌨ HTML, CSS, Javascript, JQuery, PHP, React, Python<br>
-🗣 Inglês B1 (rumo ao B2) <br>
-🎵 Instrumentista, dançarino e lutador <br>
+⌨ FullStack | React, Javascript, PHP, WordPress, Elementor, MySQL, HTML, CSS, JQuery, Python<br>
+🗣 Inglês B2<br>
+🎵 Hobbies | Violão, danças de salão e estudar algo novo <br>
+🇻🇦 Católico | Catequista, ministro e acólito <br>
 🌐 Portfólio <a target="_blank" href="https://nicchon.com/">nicchon.com</a>
 <br>
 
