@@ -1,7 +1,7 @@
 <h1 align = "center">👋Hey there! I'm Nick!</h1>
 <br>
 
-⌨ FullStack | React, Javascript, PHP, WordPress, Elementor, MySQL, HTML, CSS, JQuery, Python<br>
+⌨ FullStack | React, Javascript, PHP, WordPress, Elementor, MySQL, HTML, CSS, JQuery<br>
 🗣 Inglês B2<br>
 <br>
 🖥️ CST em Desenvolvimento Web, Anhanguera <br>
