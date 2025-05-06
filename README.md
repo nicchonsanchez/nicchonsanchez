@@ -1,11 +1,13 @@
 <h1 align = "center">👋Hey there! I'm Nick!</h1>
 <br>
 
+⌨ FullStack | React, Javascript, PHP, WordPress, Elementor, MySQL, HTML, CSS, JQuery, Python<br>
+🗣 Inglês B2<br>
+<br>
 🖥️ CST em Desenvolvimento Web, Anhanguera <br>
 📚 Aluno da <a href="https://rocketseat.com.br/" target="_blank">Rocketseat</a> <br>
 📚 Aluno da <a href="https://cursos.dankicode.com/" target="_blank">Danki Code</a> <br>
-⌨ FullStack | React, Javascript, PHP, WordPress, Elementor, MySQL, HTML, CSS, JQuery, Python<br>
-🗣 Inglês B2<br>
+<br>
 🎵 Hobbies | Violão, danças de salão e estudar algo novo <br>
 🇻🇦 Católico | Catequista, ministro e acólito <br>
 🌐 Portfólio <a target="_blank" href="https://nicchon.com/">nicchon.com</a>
