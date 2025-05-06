@@ -29,7 +29,7 @@
     <a href="https://wa.me/5531993767301/" target="_blank">
         <img src="https://img.shields.io/badge/-Whatsapp-darkgreen?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
     </a>
-    <a href="https://www.instagram.com/nicchon.sanchez/" target="_blank">
+    <a href="https://www.instagram.com/onicksanchez/" target="_blank">
         <img src="https://img.shields.io/badge/-Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
     </a>
     <a href="mailto:contato@nicchon.com" target="_blank">
