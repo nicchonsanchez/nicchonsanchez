@@ -1,6 +1,6 @@
 <h1 align="center">Olá! Eu sou o Nick Sanchez 👋</h1>
 
-<h3 align="center">Desenvolvedor FullStack | Criando soluções completas do front ao back.</h3>
+<h3 align="center">Desenvolvedor FullStack | Criando soluções completas e escaláveis com foco no ecossistema JavaScript.</h3>
 
 ---
 
@@ -8,7 +8,7 @@
 
 Sou um profissional de **Desenvolvimento Web FullStack** com experiência em construir e manter aplicações dinâmicas e responsivas. Meu foco principal está em transformar ideias em código limpo, eficiente e funcional.
 
-* 💻 Atualmente focado em aprimorar minhas habilidades em **React** e **PHP**.
+* 💻 Atualmente focado em utilizar o **React** e **Next.js** no frontend, e **Node.js** com **PHP** no backend.
 * 🎓 Formado em **CST em Desenvolvimento Web** pela Anhanguera.
 * 📚 Aluno e entusiasta da comunidade **Rocketseat** e **Danki Code**.
 * 🗣 Nível de proficiência **B2 em Inglês**.
@@ -18,26 +18,34 @@ Sou um profissional de **Desenvolvimento Web FullStack** com experiência em con
 
 ### 🛠️ Minhas Principais Skills
 
-Aqui estão as principais tecnologias que utilizo no meu dia a dia:
+Aqui estão as tecnologias e ferramentas que utilizo no meu dia a dia para entregar soluções web:
 
 | Categoria | Tecnologias |
 | :---: | :--- |
-| **Frontend** | React, JavaScript, JQuery, HTML5, CSS3 |
-| **Backend & Banco de Dados** | PHP, MySQL |
-| **Outras** | WordPress, Elementor, Python (Estudos) |
+| **Frontend** | React, **Next.js**, JavaScript, **Tailwind CSS** |
+| **Backend & Banco de Dados** | **Node.js**, PHP, MySQL |
+| **Outras/Automação** | **n8n** (Automação), WordPress, Elementor |
 
 <br>
 
 <div align="center">
   <img align="center" alt="React" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Next.js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Tailwind CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" alt="Node.js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="PHP" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" alt="MySQL" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg">
-  <img align="center" alt="JQuery" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg">
-  <img align="center" alt="HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg">
-  <img align="center" alt="CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg">
-  <img align="center" alt="Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
+  <img align="center" alt="Js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
+
+---
+
+### 💡 Workflow & Práticas
+
+* **Organização:** Utilizo quadros visuais (**Kanban-style**) para gerenciar o fluxo de tarefas e garantir a eficiência na entrega.
+* **Versionamento:** Utilizo o Git para controle de versão e sigo o fluxo de trabalho do GitHub para colaboração.
+* **Design:** Aplico práticas de *Design Responsivo* e arquitetura baseada em componentes com **Tailwind CSS**.
+* **Automação:** Experiência com **n8n** para construção de fluxos de trabalho e integrações de sistemas.
 
 ---
 
