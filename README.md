@@ -1,51 +1,53 @@
-<h1 align="center">Olá! Eu sou o Nick Sanchez 👋</h1>
+<h1 align="center">Olá! Eu sou o Nicchon Sanchez 👋</h1>
 
-<h3 align="center">Desenvolvedor FullStack | Criando soluções completas e escaláveis com foco no ecossistema JavaScript.</h3>
+<h3 align="center">Full-Stack Product Engineer | Especialista em Arquitetura SaaS, Aplicações Multi-Tenant e Produtos de Alta Performance.</h3>
 
 ---
 
 ### 🚀 Sobre Mim
 
-Sou um profissional de **Desenvolvimento Web FullStack** com experiência em construir e manter aplicações dinâmicas e responsivas. Meu foco principal está em transformar ideias em código limpo, eficiente e funcional.
+Sou cofundador da **Creatyze** (estúdio de marca + sistema) e engenheiro de software com mais de 5 anos de experiência no mercado. Sou focado em construir produtos digitais completos e escaláveis, unindo código de alta performance a regras de negócio sólidas.
 
-* 💻 Atualmente focado em utilizar o **React** e **Next.js** no frontend, e **Node.js** com **PHP** no backend.
-* 🎓 Formado em **CST em Desenvolvimento Web** pela Anhanguera.
-* 📚 Aluno e entusiasta da comunidade **Rocketseat** e **Danki Code**.
-* 🗣 Nível de proficiência **B2 em Inglês**.
+Minha metodologia de trabalho envolve engenharia orientada a resultados e aceleração via IA com revisão técnica profunda, garantindo ciclos de entrega extremamente rápidos com arquiteturas limpas.
+
+* ⚙️ Atualmente desenvolvendo e mantendo o **Zest** (SaaS multi-tenant para food service) e o **KTask** (Sext-engine de automação e tarefas).
+* 🎓 Pós-graduado em **Engenharia de Software** e **Banco de Dados** (FAMEF). Cursando Pós em **Cibersegurança**. Graduado em Desenvolvimento Web.
+* 🗣️ Nível de proficiência **B2 em Inglês** (Leitura e Escrita Técnica).
 * 🔗 Visite meu Portfólio: [nicchon.com](https://nicchon.com/)
 
 ---
 
-### 🛠️ Minhas Principais Skills
+### 🛠️ Minha Stack Principal
 
-Aqui estão as tecnologias e ferramentas que utilizo no meu dia a dia para entregar soluções web:
+Abaixo estão as tecnologias que domino e utilizo para arquitetar soluções de nível de produção:
 
-| Categoria | Tecnologias |
+| Categoria | Tecnologias e Ferramentas |
 | :---: | :--- |
-| **Frontend** | React, **Next.js**, JavaScript, **Tailwind CSS** |
-| **Backend & Banco de Dados** | **Node.js**, PHP, MySQL |
-| **Outras/Automação** | **n8n** (Automação), WordPress, Elementor |
+| **Frontend** | Next.js (15/16 App Router), React 19, TypeScript, Tailwind CSS, Zustand, TanStack Query |
+| **Backend (Node/PHP)** | NestJS, Fastify 5, Node.js, PHP (Puro / CodeIgniter 4), Prisma 6, TypeORM |
+| **Bancos de Dados & Filas** | PostgreSQL, MySQL, Redis, BullMQ (Processamento de Filas Background) |
+| **Infra & DevOps** | Docker, Caddy (On-demand TLS/Wildcard), AWS (EC2, S3, SES), Hetzner VPS, GitHub Actions, PM2 |
+| **Integrações & Segurança** | APIs REST (Asaas, Evolution API, Meta WhatsApp Cloud), n8n, Criptografia AES-256-GCM, Auth JWT com Token Rotation, 2FA TOTP |
 
 <br>
 
 <div align="center">
-  <img align="center" alt="React" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="TypeScript" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="Next.js" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="React" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Tailwind CSS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg">
+  <img align="center" alt="NestJS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg">
   <img align="center" alt="Node.js" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="PHP" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="MySQL" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
-  <img align="center" alt="Js" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="PostgreSQL" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Docker" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 </div>
 
 ---
 
-### 💡 Workflow & Práticas
+### 💡 Principais Projetos em Produção
 
-* **Organização:** Utilizo quadros visuais (**Kanban-style**) para gerenciar o fluxo de tarefas e garantir a eficiência na entrega.
-* **Versionamento:** Utilizo o Git para controle de versão e sigo o fluxo de trabalho do GitHub para colaboração.
-* **Design:** Aplico práticas de *Design Responsivo* e arquitetura baseada em componentes com **Tailwind CSS**.
-* **Automação:** Experiência com **n8n** para construção de fluxos de trabalho e integrações de sistemas.
+* **Zest (SaaS Food Service):** Plataforma multi-tenant híbrida (subdomínios dinâmicos e domínios próprios via TLS Caddy sob demanda). Inclui Kitchen Display System (KDS) via WebSockets, controle de inventário por custo médio ponderado e billing recorrente automatizado (Asaas).
+* **KTask (Automation Engine):** Sistema multi-tenant de gestão de tarefas com esteira de aprovação externa e um motor de automações customizado com triggers temporais assíncronos e notificações transacionais via WhatsApp.
 
 ---
 
@@ -64,21 +66,18 @@ Aqui estão as tecnologias e ferramentas que utilizo no meu dia a dia para entre
 
 ---
 
-### 💬 Contato
+### 💬 Contato & Parcerias
 
-Vamos conectar e colaborar! Sinta-se à vontade para me procurar.
+Se você precisa de um produto digital robusto construído com rigor arquitetural e velocidade, vamos conversar.
 
 <div align="center">
     <a href="https://nicchon.com/" target="_blank">
-        <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank">
+        <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white">
     </a>
     <a href="https://wa.me/5531993767301/" target="_blank">
-        <img src="https://img.shields.io/badge/-Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
+        <img src="https://img.shields.io/badge/-Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
     </a>
     <a href="mailto:contato@nicchon.com" target="_blank">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-    </a>
-    <a href="https://www.instagram.com/onicksanchez/" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
 </div>
